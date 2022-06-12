@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: #FFFDD0;
+    text-align: center;
+}
+
+h1 {
+    background-color: #EDE6D6;
+    font-size: 50px;
+    margin: 0px;
+    padding: 5px;
+}
+
+#submit {
+    background-color: #FFDEAD;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 10px solid;
+    border: 0px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
+
+#submit:hover {
+    background-color: #E1D9D1;
+}
